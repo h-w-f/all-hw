@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<name>Hw</name>
+	<description>Home World!</description>
+	<version>0.0.1</version>
+	<repo>https://github.com/h-w-f/all-hw</repo>
+	<dependencies>
+		<application>
+			<name>All</name>
+			<repo></repo>
+		</application>
+	</dependencies>
+</component>

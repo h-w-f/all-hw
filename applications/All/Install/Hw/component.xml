@@ -2,7 +2,7 @@
 <component>
 	<name>Hw</name>
 	<description>Home World!</description>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<repo>https://github.com/h-w-f/all-hw</repo>
 	<dependencies>
 		<application>

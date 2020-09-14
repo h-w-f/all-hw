@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
 	<name>Hw</name>
-	<description>Home World!</description>
+	<description>Hello World!</description>
 	<version>0.0.2</version>
 	<repo>https://github.com/h-w-f/all-hw</repo>
 	<dependencies>

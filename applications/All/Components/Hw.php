@@ -2,9 +2,9 @@
 
 namespace Applications\All\Components;
 
-use System\Base\Controller;
+use System\Base\Component;
 
-class Hw extends Controller
+class Hw extends Component
 {
 	public function view()
 	{

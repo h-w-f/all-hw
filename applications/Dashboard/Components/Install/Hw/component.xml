@@ -3,10 +3,10 @@
 	<name>Hw</name>
 	<description>Hello World!</description>
 	<version>0.0.2</version>
-	<repo>https://github.com/h-w-f/all-hw</repo>
+	<repo>https://github.com/h-w-f/dashboard-hw</repo>
 	<dependencies>
 		<application>
-			<name>All</name>
+			<name>Dashboard</name>
 			<version>0.0.1</version>
 			<repo></repo>
 		</application>

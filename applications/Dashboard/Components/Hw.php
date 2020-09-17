@@ -1,6 +1,6 @@
 <?php
 
-namespace Applications\All\Components;
+namespace Applications\Dashboard\Components;
 
 use System\Base\Component;
 

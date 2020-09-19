@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
 	<name>Hw</name>
+	<displayname>Hello World Component (Dashboard)</displayname>
 	<description>Hello World!</description>
 	<version>0.0.2</version>
 	<repo>https://github.com/h-w-f/component-dashboard-hw</repo>

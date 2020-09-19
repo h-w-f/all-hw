@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<name>Hw</name>
+	<description>Hello World!</description>
+	<version>0.0.2</version>
+	<repo>https://github.com/h-w-f/component-dashboard-hw</repo>
+	<path>/</path>
+	<dependencies>
+		<application>
+			<name>Dashboard</name>
+			<version>0.0.1</version>
+			<repo>https://github.com/h-w-f/application-dashboard</repo>
+		</application>
+		<view>
+			<name>Hw</name>
+			<version>0.0.1</version>
+			<repo>https://github.com/h-w-f/view-dashboard-default-hw</repo>
+		</view>
+	</dependencies>
+</component>

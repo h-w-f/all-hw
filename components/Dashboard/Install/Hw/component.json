@@ -1,0 +1,39 @@
+{
+	"name"			: "Hw",
+	"displayName" 	: "Dashboard Hw Component",
+	"description"	: "Component for Dashboard",
+	"version"		: "0.0.1",
+	"repo"			: "https://github.com/h-w-f/component-dashboard-hw",
+	"path"			: "/",
+	"dependencies"	: {
+		"core"			: {
+			"Core" : {
+				"name"		: "Core",
+				"version"	: "0.0.1",
+				"repo"		: "https://github.com/h-w-f/core"
+			}
+		},
+		"applications" : {
+			"Dashboard" : {
+				"name"		: "Dashboard",
+				"version"	: "0.0.1",
+				"repo"		: "https://github.com/h-w-f/application-dashboard"
+			}
+		},
+		"components"	: {
+		},
+		"packages"		: {
+		},
+		"middlewares"		: {
+		},
+		"views"			: {
+			"DefaultHw" : {
+				"name"		: "DefaultHw",
+				"version"	: "0.0.1",
+				"repo"		: "https://github.com/h-w-f/view-dashboard-default-hw"
+			}
+		}
+	},
+	"settings"		: {
+	}
+}

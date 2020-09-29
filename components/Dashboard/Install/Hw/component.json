@@ -7,32 +7,24 @@
 	"path"			: "/",
 	"dependencies"	: {
 		"core"			: {
-			"Core" : {
-				"name"		: "Core",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/core"
-			}
+			"name"		: "Core",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/core"
 		},
 		"application" : {
-			"Dashboard" : {
-				"name"		: "Dashboard",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/application-dashboard"
-			}
+			"name"		: "Dashboard",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/application-dashboard"
 		},
-		"components"	: {
-		},
-		"packages"		: {
-		},
-		"middlewares"		: {
-		},
-		"views"			: {
-			"DefaultHw" : {
-				"name"		: "DefaultHw",
-				"version"	: "0.0.1",
-				"repo"		: "https://github.com/h-w-f/view-dashboard-default-hw"
-			}
-		}
+		"components"	: [],
+		"packages"		: [],
+		"middlewares"	: [],
+		"views"			:
+		[{
+			"name"		: "DefaultHw",
+			"version"	: "0.0.1",
+			"repo"		: "https://github.com/h-w-f/view-dashboard-default-hw"
+		}]
 	},
 	"settings"		: {
 	}
